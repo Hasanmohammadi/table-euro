@@ -3,28 +3,28 @@ import PersonInfo from "./person";
 import style from "./style.module.css";
 const members = [
   {
-    name: "عمو مصطفی",
+    name: "عمه حمیده",
     point: 0,
     id: 1,
   },
   {
     name: "عمه حسنه",
-    point: 0,
+    point: 5,
     id: 2,
   },
   {
     name: "عمه رجا",
-    point: 0,
+    point: 5,
     id: 3,
   },
   {
     name: "عمه نجمه",
-    point: 0,
+    point: 5,
     id: 4,
   },
   {
     name: "عمه نجلا",
-    point: 0,
+    point: 5,
     id: 5,
   },
   {
@@ -39,52 +39,52 @@ const members = [
   },
   {
     name: "شیما",
-    point: 0,
+    point: 5,
     id: 8,
   },
   {
     name: "مریم (عمان)",
-    point: 0,
+    point: 5,
     id: 9,
   },
   {
     name: "منصور",
-    point: 0,
+    point: 5,
     id: 10,
   },
   {
     name: "علی",
-    point: 0,
+    point: 5,
     id: 11,
   },
   {
     name: "فائزه ",
-    point: 0,
+    point: 5,
     id: 12,
   },
   {
     name: "جواد",
-    point: 0,
+    point: 5,
     id: 13,
   },
   {
     name: "یاسمین",
-    point: 0,
+    point: 5,
     id: 14,
   },
   {
     name: "محمد",
-    point: 0,
+    point: 5,
     id: 15,
   },
   {
     name: "حسن",
-    point: 0,
+    point: 5,
     id: 16,
   },
   {
     name: "کوثر",
-    point: 0,
+    point: 5,
     id: 17,
   },
   {
@@ -94,8 +94,13 @@ const members = [
   },
   {
     name: "ریحانه",
-    point: 0,
+    point: 5,
     id: 19,
+  },
+  {
+    name: "مهدی",
+    point: 0,
+    id: 20,
   },
 ];
 
