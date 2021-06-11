@@ -102,6 +102,11 @@ const members = [
     point: 0,
     id: 20,
   },
+  {
+    name: "علی کانادا",
+    point: 5,
+    id: 20,
+  },
 ];
 
 const Table = () => {
