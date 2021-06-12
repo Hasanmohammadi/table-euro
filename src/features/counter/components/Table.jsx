@@ -19,7 +19,7 @@ const members = [
   },
   {
     name: "Najmeh",
-    point: 5,
+    point: 15,
     id: 4,
   },
   {
@@ -64,7 +64,7 @@ const members = [
   },
   {
     name: "Javad",
-    point: 5,
+    point: 15,
     id: 13,
   },
   {
