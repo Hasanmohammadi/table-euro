@@ -4,12 +4,12 @@ import style from "./style.module.css";
 const members = [
   {
     name: "Hamide",
-    point: 0,
+    point: 5,
     id: 1,
   },
   {
     name: "Hasine",
-    point: 5,
+    point: 10,
     id: 2,
   },
   {
@@ -19,32 +19,32 @@ const members = [
   },
   {
     name: "Najmeh",
-    point: 15,
+    point: 20,
     id: 4,
   },
   {
     name: "Najla",
-    point: 5,
+    point: 10,
     id: 5,
   },
   {
     name: "Vafa",
-    point: 0,
+    point: 5,
     id: 6,
   },
   {
     name: "Zohre",
-    point: 0,
+    point: 5,
     id: 7,
   },
   {
     name: "Shima",
-    point: 5,
+    point: 15,
     id: 8,
   },
   {
     name: "Maryam (Oman)",
-    point: 5,
+    point: 15,
     id: 9,
   },
   {
@@ -54,32 +54,32 @@ const members = [
   },
   {
     name: "Ali",
-    point: 5,
+    point: 10,
     id: 11,
   },
   {
     name: "Faezeh ",
-    point: 5,
+    point: 10,
     id: 12,
   },
   {
     name: "Javad",
-    point: 15,
+    point: 20,
     id: 13,
   },
   {
     name: "Yasamin",
-    point: 5,
+    point: 10,
     id: 14,
   },
   {
     name: "Mohammad",
-    point: 5,
+    point: 10,
     id: 15,
   },
   {
     name: "Hassan",
-    point: 5,
+    point: 10,
     id: 16,
   },
   {
@@ -89,17 +89,17 @@ const members = [
   },
   {
     name: "Maryam (Iran)",
-    point: 0,
+    point: 10,
     id: 18,
   },
   {
     name: "Reyhane",
-    point: 5,
+    point: 10,
     id: 19,
   },
   {
     name: "Mehdi",
-    point: 0,
+    point: 5,
     id: 20,
   },
   {
